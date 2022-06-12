@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LowCostHotelMobile.Views.Statistics.StatisticDetailPage"
+             Title="Statistic Detail">
+
+    <ContentPage.Content>
+        <StackLayout Spacing="20" Padding="15">
+            <Label Text="User Name" FontSize="Medium" />
+            <Label Text="{Binding UserName}" FontSize="Small"/>
+
+            <Label Text="Hotel Room Number" FontSize="Medium" />
+            <Label Text="{Binding HostelRoom}" FontSize="Small"/>
+
+            <Label Text="Price Per Day" FontSize="Medium" />
+            <Label Text="{Binding PricePerDay}" FontSize="Small"/>
+
+            <Label Text="Resource Name" FontSize="Medium" />
+            <Label Text="{Binding ResourceName}" FontSize="Small"/>
+
+            <Label Text="Resource Price Per Hour" FontSize="Medium" />
+            <Label Text="{Binding ResourcePricePerHour}" FontSize="Small"/>
+
+            <Label Text="Start" FontSize="Medium" />
+            <Label Text="{Binding Start}" FontSize="Small"/>
+
+            <Label Text="End" FontSize="Medium" />
+            <Label Text="{Binding End}" FontSize="Small"/>
+
+            <Label Text="Profit" FontSize="Medium" />
+            <Label Text="{Binding Profit}" FontSize="Small"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

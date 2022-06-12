@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\LowCostHotel\LowCostHotel\LowCostHotel.BusinessLogicLayer\bin\Release\netcoreapp3.1\LowCostHotel.BusinessLogicLayer.deps.json
+C:\Users\User\Desktop\LowCostHotel\LowCostHotel\LowCostHotel.BusinessLogicLayer\bin\Release\netcoreapp3.1\LowCostHotel.BusinessLogicLayer.dll
+C:\Users\User\Desktop\LowCostHotel\LowCostHotel\LowCostHotel.BusinessLogicLayer\bin\Release\netcoreapp3.1\LowCostHotel.BusinessLogicLayer.pdb
+C:\Users\User\Desktop\LowCostHotel\LowCostHotel\LowCostHotel.BusinessLogicLayer\bin\Release\netcoreapp3.1\LowCostHotel.DataAccessLayer.dll
+C:\Users\User\Desktop\LowCostHotel\LowCostHotel\LowCostHotel.BusinessLogicLayer\bin\Release\netcoreapp3.1\LowCostHotel.DataAccessLayer.pdb
+C:\Users\User\Desktop\LowCostHotel\LowCostHotel\LowCostHotel.BusinessLogicLayer\obj\Release\netcoreapp3.1\LowCostHotel.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LowCostHotel\LowCostHotel\LowCostHotel.BusinessLogicLayer\obj\Release\netcoreapp3.1\LowCostHotel.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LowCostHotel\LowCostHotel\LowCostHotel.BusinessLogicLayer\obj\Release\netcoreapp3.1\LowCostHotel.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LowCostHotel\LowCostHotel\LowCostHotel.BusinessLogicLayer\obj\Release\netcoreapp3.1\LowCostHotel.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\LowCostHotel\LowCostHotel\LowCostHotel.BusinessLogicLayer\obj\Release\netcoreapp3.1\LowCostHotel.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LowCostHotel\LowCostHotel\LowCostHotel.BusinessLogicLayer\obj\Release\netcoreapp3.1\LowCostHotel.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\User\Desktop\LowCostHotel\LowCostHotel\LowCostHotel.BusinessLogicLayer\obj\Release\netcoreapp3.1\LowCostHotel.BusinessLogicLayer.dll
+C:\Users\User\Desktop\LowCostHotel\LowCostHotel\LowCostHotel.BusinessLogicLayer\obj\Release\netcoreapp3.1\LowCostHotel.BusinessLogicLayer.pdb
